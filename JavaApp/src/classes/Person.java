@@ -10,5 +10,5 @@ package classes;
  * @author User
  */
 public class Person {
-    
+    public int edad;
 }
